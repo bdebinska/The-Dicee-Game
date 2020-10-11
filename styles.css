@@ -1,0 +1,40 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+body {
+  background-color: #686d76;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster Two', cursive;
+  text-shadow: 5px 0 #373a40;
+  font-size: 8rem;
+  color: #19d3da;
+}
+
+p {
+  font-size: 2rem;
+  color: #19d3da;
+  font-family: 'Chilanka', cursive;
+}
+
+img {
+  width: 85%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Chilanka', cursive;
+
+}
